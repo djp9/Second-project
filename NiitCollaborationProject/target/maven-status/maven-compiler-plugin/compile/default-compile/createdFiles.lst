@@ -1,0 +1,8 @@
+com\niit\collaborationbackend\controller\FriendsController.class
+com\niit\collaborationbackend\dao\JobDAO.class
+com\niit\collaborationbackend\dao\FriendsDAO.class
+com\niit\collaborationbackend\controller\JobController.class
+com\niit\collaborationbackend\model\Job.class
+com\niit\collaborationbackend\model\Friends.class
+com\niit\collaborationbackend\model\JobApplication.class
+com\niit\collaborationbackend\config\AppInitializer.class
